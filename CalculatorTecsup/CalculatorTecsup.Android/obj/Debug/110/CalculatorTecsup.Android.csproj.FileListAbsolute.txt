@@ -1,0 +1,781 @@
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\bin\Debug\CalculatorTecsup.Android.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\bin\Debug\CalculatorTecsup.Android.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\bin\Debug\com.companyname.calculatortecsup.apk
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\bin\Debug\com.companyname.calculatortecsup.aab
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\bin\Debug\com.companyname.calculatortecsup-Signed.aab
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\bin\Debug\com.companyname.calculatortecsup-Signed.apk
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\bin\Debug\com.companyname.calculatortecsup-Signed.apk.idsig
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\bin\Debug\CalculatorTecsup.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\bin\Debug\CalculatorTecsup.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\build.props
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\adb.props
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\CalculatorTecsup.Android.csprojAssemblyReference.cache
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\stamp\_BuildLibraryImportsCache.stamp
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res.flag
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\44\jl\files.cache
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\45\jl\files.cache
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\51\jl\files.cache
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\54\jl\files.cache
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\55\jl\files.cache
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\62\jl\files.cache
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\63\jl\files.cache
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\67\jl\files.cache
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\68\jl\files.cache
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\70\jl\files.cache
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\71\jl\files.cache
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\72\jl\files.cache
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\73\jl\files.cache
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\75\jl\files.cache
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\76\jl\files.cache
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\79\jl\files.cache
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\87\jl\files.cache
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\R.txt
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\R.cs.flag
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\CalculatorTecsup.Android.csproj.CoreCompileInputs.cache
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\CalculatorTecsup.Android.csproj.CopyComplete
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\CalculatorTecsup.Android.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\CalculatorTecsup.Android.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\bin\com.companyname.calculatortecsup.apk
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\bin\base.zip
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\bin\com.companyname.calculatortecsup.aab
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\bin\com.companyname.calculatortecsup.apks
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\values\styles.xml
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\values\colors.xml
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\mipmap-anydpi-v26\icon.xml
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\mipmap-anydpi-v26\icon_round.xml
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\mipmap-hdpi\icon.png
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\mipmap-hdpi\launcher_foreground.png
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\mipmap-mdpi\icon.png
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\mipmap-mdpi\launcher_foreground.png
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\mipmap-xhdpi\icon.png
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\mipmap-xhdpi\launcher_foreground.png
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\mipmap-xxhdpi\icon.png
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\mipmap-xxhdpi\launcher_foreground.png
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\mipmap-xxxhdpi\icon.png
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\uploadflags.txt
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\resolvedassemblies.hash
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\CalculatorTecsup.Android.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\CalculatorTecsup.Android.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\CalculatorTecsup.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\CalculatorTecsup.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\FormsViewGroup.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\FormsViewGroup.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Java.Interop.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Mono.Android.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Mono.Android.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Mono.Security.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Mono.Security.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\mscorlib.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\mscorlib.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\netstandard.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.ComponentModel.Composition.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.ComponentModel.Composition.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Core.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Core.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Data.DataSetExtensions.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Data.DataSetExtensions.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Data.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Data.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Drawing.Common.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Drawing.Common.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.IO.Compression.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.IO.Compression.FileSystem.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.IO.Compression.FileSystem.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.IO.Compression.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Net.Http.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Net.Http.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Numerics.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Numerics.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Numerics.Vectors.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Numerics.Vectors.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Runtime.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Runtime.Serialization.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Runtime.Serialization.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.ServiceModel.Internals.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.ServiceModel.Internals.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Transactions.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Transactions.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Web.Services.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Web.Services.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Xml.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Xml.Linq.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Xml.Linq.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Xml.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Browser.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Browser.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CardView.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CardView.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Media.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Media.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Transition.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Transition.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager2.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager2.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.Essentials.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.Essentials.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.Forms.Core.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.Forms.Core.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.Forms.Xaml.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.Forms.Xaml.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\typemaps.arm64-v8a.s
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\typemaps.armeabi-v7a.s
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\typemaps.x86.s
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\typemaps.x86_64.s
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\typemaps.armeabi-v7a-shared.inc
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\typemaps.shared.inc
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\AndroidManifest.xml
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\AndroidManifest.xml
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\__environment__.txt
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\MonoRuntimeProvider.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\machine.config
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\bin\mono.android.jar
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\static.flag
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\buildid.txt
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\environment.arm64-v8a.s
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\environment.armeabi-v7a.s
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\environment.x86.s
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\environment.x86_64.s
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\androidx\appcompat\R.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\androidx\appcompat\resources\R.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\androidx\browser\R.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\androidx\cardview\R.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\androidx\coordinatorlayout\R.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\androidx\core\R.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\androidx\drawerlayout\R.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\androidx\fragment\R.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\androidx\media\R.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\androidx\recyclerview\R.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\androidx\savedstate\R.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\androidx\swiperefreshlayout\R.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\androidx\transition\R.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\androidx\viewpager2\R.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\com\google\android\material\R.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643c6d3dbcc2fa64b3\MainActivity.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EllipseView.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LineView.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PathView.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolygonView.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolylineView.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RectView.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShapeView.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\FloatArrayEvaluator.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\RectEvaluator.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\TransitionUtils.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\TransitionUtils_MatrixEvaluator.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\android\app\ApplicationRegistration.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\com\google\android\material\button\MaterialButtonToggleGroup_OnButtonCheckedListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\com\google\android\material\button\MaterialButton_OnCheckedChangeListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\com\google\android\material\card\MaterialCardView_OnCheckedChangeListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\com\google\android\material\datepicker\MaterialPickerOnPositiveButtonClickListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\com\google\android\material\internal\ViewUtils_OnApplyWindowInsetsListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\com\google\android\material\shape\ShapeAppearancePathProvider_PathListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\com\google\android\material\slider\BaseOnChangeListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\com\google\android\material\slider\BaseOnSliderTouchListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEditTextAttachedListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\mono\MonoPackageManager_Resources.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\xamarin\essentials\fileProvider.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\bin\packaged_resources
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\src\com\companyname\calculatortecsup\R.java
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\compressed_assemblies.arm64-v8a.s
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\compressed_assemblies.armeabi-v7a.s
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\compressed_assemblies.x86.s
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\compressed_assemblies.x86_64.s
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\typemaps.arm64-v8a.o
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\typemaps.armeabi-v7a.o
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\typemaps.x86.o
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\typemaps.x86_64.o
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\environment.arm64-v8a.o
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\environment.armeabi-v7a.o
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\environment.x86.o
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\environment.x86_64.o
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\compressed_assemblies.arm64-v8a.o
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\compressed_assemblies.armeabi-v7a.o
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\compressed_assemblies.x86.o
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\compressed_assemblies.x86_64.o
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\app_shared_libraries\x86\libxamarin-app.so
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\app_shared_libraries\x86_64\libxamarin-app.so
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\bin\classes.dex
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\stamp\_CleanIntermediateIfNeeded.stamp
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\stamp\_CompileToDalvik.stamp
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\stamp\_ConvertCustomView.stamp
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\stamp\_ConvertResourcesCases.stamp
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\bin\Debug\CalculatorTecsup.Android.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\bin\Debug\CalculatorTecsup.Android.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\bin\Debug\com.companyname.calculatortecsup.apk
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\bin\Debug\com.companyname.calculatortecsup.aab
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\bin\Debug\com.companyname.calculatortecsup-Signed.aab
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\bin\Debug\com.companyname.calculatortecsup-Signed.apk
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\bin\Debug\com.companyname.calculatortecsup-Signed.apk.idsig
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\bin\Debug\CalculatorTecsup.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\bin\Debug\CalculatorTecsup.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\build.props
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\adb.props
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\CalculatorTecsup.Android.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res.flag
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\44\jl\files.cache
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\45\jl\files.cache
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\51\jl\files.cache
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\54\jl\files.cache
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\55\jl\files.cache
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\62\jl\files.cache
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\63\jl\files.cache
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\67\jl\files.cache
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\68\jl\files.cache
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\70\jl\files.cache
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\71\jl\files.cache
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\72\jl\files.cache
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\73\jl\files.cache
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\75\jl\files.cache
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\76\jl\files.cache
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\79\jl\files.cache
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\lp\87\jl\files.cache
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\R.txt
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\R.cs.flag
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\CalculatorTecsup.Android.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\CalculatorTecsup.Android.csproj.CopyComplete
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\CalculatorTecsup.Android.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\CalculatorTecsup.Android.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\bin\com.companyname.calculatortecsup.apk
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\bin\base.zip
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\bin\com.companyname.calculatortecsup.aab
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\bin\com.companyname.calculatortecsup.apks
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\values\styles.xml
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\values\colors.xml
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\mipmap-anydpi-v26\icon.xml
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\mipmap-hdpi\icon.png
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\mipmap-mdpi\icon.png
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\mipmap-xhdpi\icon.png
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\mipmap-xxhdpi\icon.png
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\mipmap-xxxhdpi\icon.png
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\uploadflags.txt
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\resolvedassemblies.hash
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\CalculatorTecsup.Android.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\CalculatorTecsup.Android.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\CalculatorTecsup.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\CalculatorTecsup.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\FormsViewGroup.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\FormsViewGroup.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Java.Interop.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Mono.Android.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Mono.Android.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Mono.Security.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Mono.Security.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\mscorlib.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\mscorlib.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\netstandard.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.ComponentModel.Composition.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Core.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Core.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Data.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Data.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Drawing.Common.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.IO.Compression.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.IO.Compression.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Net.Http.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Net.Http.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Numerics.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Numerics.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Numerics.Vectors.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Numerics.Vectors.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Runtime.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Runtime.Serialization.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Transactions.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Transactions.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Web.Services.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Web.Services.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Xml.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Xml.Linq.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Xml.Linq.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\System.Xml.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Browser.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Browser.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CardView.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CardView.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Media.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Media.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Transition.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Transition.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager2.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager2.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.Essentials.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.Essentials.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.Forms.Core.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup.Android\obj\Debug\110\android\assets\Xamarin.Google.Guava.ListenableFuture.dll

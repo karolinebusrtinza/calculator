@@ -1,0 +1,28 @@
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\bin\Debug\netstandard2.0\CalculatorTecsup.deps.json
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\bin\Debug\netstandard2.0\CalculatorTecsup.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\bin\Debug\netstandard2.0\ref\CalculatorTecsup.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\bin\Debug\netstandard2.0\CalculatorTecsup.pdb
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\obj\Debug\netstandard2.0\CalculatorTecsup.csprojAssemblyReference.cache
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\obj\Debug\netstandard2.0\CalculatorTecsup.AssemblyInfoInputs.cache
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\obj\Debug\netstandard2.0\CalculatorTecsup.AssemblyInfo.cs
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\obj\Debug\netstandard2.0\CalculatorTecsup.csproj.CoreCompileInputs.cache
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\obj\Debug\netstandard2.0\XamlC.stamp
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\obj\Debug\netstandard2.0\CalculatorTecsup.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\obj\Debug\netstandard2.0\ref\CalculatorTecsup.dll
+C:\2021-1\AMM\Xamarin\Calculadora-MVVM\CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\obj\Debug\netstandard2.0\CalculatorTecsup.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\bin\Debug\netstandard2.0\CalculatorTecsup.deps.json
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\bin\Debug\netstandard2.0\CalculatorTecsup.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\bin\Debug\netstandard2.0\ref\CalculatorTecsup.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\bin\Debug\netstandard2.0\CalculatorTecsup.pdb
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\obj\Debug\netstandard2.0\CalculatorTecsup.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\obj\Debug\netstandard2.0\CalculatorTecsup.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\obj\Debug\netstandard2.0\CalculatorTecsup.AssemblyInfo.cs
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\obj\Debug\netstandard2.0\CalculatorTecsup.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\obj\Debug\netstandard2.0\CalculatorTecsup.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\obj\Debug\netstandard2.0\ref\CalculatorTecsup.dll
+C:\Users\Usuario\Documents\5CICLO\APLICACIONES MOVILES MULTIPLATAFORMICA\calculator\Lab12-MVVM-CalculatorTecsup\CalculatorTecsup\CalculatorTecsup\obj\Debug\netstandard2.0\CalculatorTecsup.pdb

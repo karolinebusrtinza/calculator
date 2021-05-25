@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "FGxF6XXtCIZx2+QYeC/HjAmLEfO/7JlluFs6Dz/qtVc5Gh0Sskw+Q46sq3lYp+17mp+K6gUOT0y4dxOeq1sawA==",
+  "success": true,
+  "projectFilePath": "C:\\CalculatorTecsup\\CalculatorTecsup\\CalculatorTecsup\\CalculatorTecsup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
